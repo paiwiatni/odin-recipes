@@ -1,0 +1,21 @@
+h1 {
+    background-color: wheat;
+    text-align: center;
+    border-style: dotted;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-color: orange;
+}
+
+body {
+    background-color: wheat;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h3 {
+    background-color: wheat;
+    border-style: dotted;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-color: orange;
+}
